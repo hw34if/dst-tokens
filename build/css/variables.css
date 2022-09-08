@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 07 Sep 2022 13:41:03 GMT
+ * Generated on Thu, 08 Sep 2022 07:20:35 GMT
  */
 
 :root {
@@ -8,8 +8,8 @@
   --sd-dst-dst-sys-color-surface-muted: FAFBFB;
   --sd-dst-dst-sys-color-primary-default: 00A5EF;
   --sd-dst-dst-mobile-title-small: [object Object];
-  --sd-button-default: #2d80be;
+  --sd-button-default: #bf2eaa;
   --sd-button-text: ffffff;
-  --sd-button-button: 4px;
+  --sd-button-button: 4;
   --sd-button-size-md: 78;
 }
